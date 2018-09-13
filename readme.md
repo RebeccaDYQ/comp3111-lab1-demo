@@ -1,2 +1,2 @@
 name: DENG Yuqing
-stuid: 20327856
+student id: 20327856
